@@ -16,3 +16,5 @@ Tadow in just a toy project that takes a couples forms.
 * [ ] Create a simple build to embed in other projects
     * [ ] add sqlite/redis for other users?
 
+## TODO
+* [ ] override bulma color theme 
