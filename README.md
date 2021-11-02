@@ -1,9 +1,9 @@
 # Tadow
-## Simple and Clean...hopefully...
+## Simple and Clean...Hopefully...
 
 ## ABOUT 
-Tadow in just a toy project that takes a couples forms. 
-1. A Todo list that easily embeddable into other web projects to help keep the root README.md clean 
+Tadow is just a toy project that takes a couples forms. 
+1. A Todo list that easily embeddable into other web projects to help keeps the root README clean 
 2. Something easy to rebuild when a new interesting JS framework comes out in the next couple of years or, when the new trending shiny being released next week
 
 ## GOALS :
@@ -18,3 +18,5 @@ Tadow in just a toy project that takes a couples forms.
 
 ## TODO
 * [ ] override bulma color theme 
+* [ ] use the correct semantics for src/partials
+    * [ ] is 'head.pug' really a partial? -- why wouldn't it be? probably best to sure that question up with some reference material and add it to the public [cookbook](https://github.com/brnt-toast/CookBook.git)
