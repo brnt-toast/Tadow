@@ -16,7 +16,14 @@ Tadow is just a toy project that takes a couples forms.
 * [ ] Create a simple build to embed in other projects
     * [ ] add sqlite/redis for other users?
 
-## TODO
+## Project - TODO
 * [ ] override bulma color theme 
 * [ ] use the correct semantics for src/partials
     * [ ] is 'head.pug' really a partial? -- why wouldn't it be? probably best to sure that question up with some reference material and add it to the public [cookbook](https://github.com/brnt-toast/CookBook.git)
+* [ ] update from CLI
+
+## TODO
+* [ ] write a script that clones all my relevent projects
+* [ ] write a set up script that:
+    * [ ] ipython, ranger, binwalk, radare
+    * [ ] copies dots and scripts in correct folders: $HOME && $HOME/local/bin
