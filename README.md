@@ -27,3 +27,4 @@ Tadow is just a toy project that takes a couples forms.
 * [ ] write a set up script that:
     * [ ] ipython, ranger, binwalk, radare
     * [ ] copies dots and scripts in correct folders: $HOME && $HOME/local/bin
+* [ ] dive head first into C
